@@ -285,8 +285,6 @@ z-index: -1;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 30px;
   margin-top: 90px;
-padding-left: 10%;
-margin-left: 5%;
 }
 .portfolio .card{
   background-color: white;
